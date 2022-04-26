@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Guilherme
-- 🌱 I’m currently on 2nd semester of college (S.I) at UFOP
-- 📫 How to reach me guiinevessilva@gmail.com
+teste readme.md
 
 <!---
 GuiNeves00/GuiNeves00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
