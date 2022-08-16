@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neves
-- 📚 I’m currently on 3rd semester of Information Systems at UFOP
+- 📚 I’m currently on 4th semester of Information Systems at UFOP
 - 🧠 My main interests are AI/ML and Web and Desktop development
 - 📫 How to reach me: guiinevessilva@gmail.com
 <!---
