@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Neves</h1>
-<h3 align="center">An Information Systems student at UFOP (Brazil)</h3>
+<h3 align="center">Information Systems student (UFOP - Brazil)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guineves00&label=Profile%20views&color=0e75b6&style=plastic" alt="guineves00" /> </p>
 
