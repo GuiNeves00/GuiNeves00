@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guineves00&label=Profile%20views&color=0e75b6&style=plastic" alt="guineves00" /> </p>
 
-- 🌱 I’m currently learning **backend development**
+- 🌱  **backend development** enthusiast
+
+- 🧑🏻‍💻 currently working as a **full stack intern** for dtidigital
 
 - 📫 How to reach me **guineves.dev@gmail.com**
 
