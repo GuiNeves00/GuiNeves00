@@ -5,8 +5,6 @@
 
 - 🌱  **backend development** enthusiast
 
-- 🧑🏻‍💻 currently working as a **full stack intern** for dtidigital
-
 - 📫 How to reach me **guineves.dev@gmail.com**
 
 <h3 align="left">Connect with me</h3>
